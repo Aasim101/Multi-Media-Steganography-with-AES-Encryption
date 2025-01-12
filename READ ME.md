@@ -63,7 +63,7 @@ Install the required libraries using the following command:
 
 ## **File Types Supported**
 
-* **Images**: PNG  
-* **Audio**: WAV  
+* **Images**: PNG, JPG, JPEG
+* **Audio**: WAV, MP3
 * **Video**: MP4, AVI
 
